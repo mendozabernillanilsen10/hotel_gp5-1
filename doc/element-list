@@ -1,0 +1,13 @@
+com.hotel
+com.hotel.config
+com.hotel.controller
+com.hotel.converters
+com.hotel.dtos
+com.hotel.entity
+com.hotel.exceptions
+com.hotel.repository
+com.hotel.security
+com.hotel.service
+com.hotel.service.impl
+com.hotel.utils
+com.hotel.validators
